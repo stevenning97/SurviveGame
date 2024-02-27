@@ -1,0 +1,18 @@
+﻿  Game.cpp
+  Main.cpp
+  Generating Code...
+  LINK : C:\Users\Steven\Desktop\finalcheck\gamecheck\Debug\Game.exe not found or not built by the last incremental link; performing full link
+  Game.vcxproj -> C:\Users\Steven\Desktop\finalcheck\gamecheck\Debug\Game.exe
+  C:\Users\Steven\Desktop\finalcheck\gamecheck\\..\external\SDL\lib\win\x86\libfreetype-6.dll
+  C:\Users\Steven\Desktop\finalcheck\gamecheck\\..\external\SDL\lib\win\x86\libogg-0.dll
+  C:\Users\Steven\Desktop\finalcheck\gamecheck\\..\external\SDL\lib\win\x86\libpng16-16.dll
+  C:\Users\Steven\Desktop\finalcheck\gamecheck\\..\external\SDL\lib\win\x86\libvorbis-0.dll
+  C:\Users\Steven\Desktop\finalcheck\gamecheck\\..\external\SDL\lib\win\x86\libvorbisfile-3.dll
+  C:\Users\Steven\Desktop\finalcheck\gamecheck\\..\external\SDL\lib\win\x86\SDL2.dll
+  C:\Users\Steven\Desktop\finalcheck\gamecheck\\..\external\SDL\lib\win\x86\SDL2_image.dll
+  C:\Users\Steven\Desktop\finalcheck\gamecheck\\..\external\SDL\lib\win\x86\SDL2_mixer.dll
+  C:\Users\Steven\Desktop\finalcheck\gamecheck\\..\external\SDL\lib\win\x86\SDL2_ttf.dll
+  C:\Users\Steven\Desktop\finalcheck\gamecheck\\..\external\SDL\lib\win\x86\zlib1.dll
+  10 File(s) copied
+  C:\Users\Steven\Desktop\finalcheck\gamecheck\\..\external\GLEW\lib\win\x86\glew32.dll
+  1 File(s) copied
